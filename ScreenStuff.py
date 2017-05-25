@@ -1,6 +1,7 @@
 # Code written by Jack Clark
 # Copyright 2017(c) the M.I.T. License
 # This code handles all of the Screen FX
+# This code might become an animation library or some point
 import os
 import sys
 
